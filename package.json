@@ -9,7 +9,7 @@
     "sim": "concurrently \"yarn start\" \"emulator -avd Pixel_2_API_27\""
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "expo": "^34.0.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
